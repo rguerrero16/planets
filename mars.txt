@@ -1,8 +1,13 @@
+
 Packed my tools and ready for mars
 Docked to international space station and ready for a sling to mars
 Approaching mars orbit
 Ready to touchdown
+<<<<<<< HEAD
 
 
 LET'S SEE WHAT HAPPENS NOW.
 -ADD FROM RSTUDIO
+=======
+Collaboration from Jiankang
+>>>>>>> 0f37d49d1d0ecc2d4f4b16a820053bbc5f4a8a6e
